@@ -1,0 +1,152 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Syncopate', sans-serif;
+}
+
+body {
+    background-image: url(./img/background.png);
+    width: 1440px;
+    height: 810px;
+}
+
+.fundo {
+    width: 1366px;
+    height: 768px;
+}
+
+.logo {
+    width: Hug (59.25px);
+    height: Hug (65.97px);
+    margin-left: 45.75px;
+    margin-top: 45px;
+}
+
+.header-link {
+    font-weight: 800;
+    font-size: 13px;
+    margin-right: 50px;
+    line-height: 16px;
+    letter-spacing: 0.465em;
+    color: #FFFFFF;
+    cursor: pointer;
+}
+
+.header-link:hover {
+    color: red;
+}
+
+.box-links {
+    position: absolute;
+    width: Hug (585.75px);
+    height: Hug (18px);
+    left: 420px;
+    top: 66px;
+
+}
+
+
+
+.two {
+    position: absolute;
+    width: Hug (419px);
+    height: Hug (71.25px);
+    left: 776px;
+    top: 511.5px;
+}
+
+.choose {
+    font-weight: 800;
+    font-size: 13px;
+    line-height: 16px;
+    color: #FFFFFF;
+    position: absolute;
+    width: 144.75px;
+    height: 16.5px;
+    left: 81px;
+    top: 636.75px;
+    cursor: pointer;
+}
+
+.choose:hover {
+    color: red;
+}
+
+.bolls {
+    position: absolute;
+    width: 12px;
+    height: 105px;
+    left: 1364.25px;
+    top: 352.5px;
+    cursor: pointer;
+}
+
+.paste {
+    width: 27px;
+    height: 27px;
+    margin-left: 44px;
+    cursor: pointer;
+}
+
+
+.tree {
+    position: absolute;
+    width: Hug (169.5px);
+    height: Hug(27px);
+    left: 1206.75px;
+    top: 61.5px
+}
+
+.shoes {
+    position: absolute;
+    width: 450px;
+    height: 131.62px;
+    margin-right: 39.75px;
+    left: 18px;
+    top: 654px;
+    cursor: pointer;
+
+}
+
+.buttons {
+    position: absolute;
+    width: Hug (374.25px);
+    height: Hug (51.75px);
+    left: 533.25px;
+    top: 693px;
+
+}
+
+.button1 {
+    width: 179.25px;
+    height: 51.75px;
+    background: #FFFFFF;
+    margin-left: 33px;
+    cursor: pointer;
+}
+
+.button1:active {
+    opacity: 0.7;
+}
+
+.button2 {
+    width: 162px;
+    height: 51.75px;
+    border: 0.75px solid #FFFFFF;
+    color: #FFFFFF;
+    background-color: transparent;
+    cursor: pointer;
+}
+
+.button2:active {
+    opacity: 0.7;
+}
+
+.information {
+    position: absolute;
+    width: 343.5px;
+    height: 84.5px;
+    left: 1032.75px;
+    top: 660.75px;
+}
